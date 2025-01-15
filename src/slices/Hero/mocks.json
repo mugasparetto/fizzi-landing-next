@@ -1,0 +1,101 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Plates"
+						}
+					}
+				]
+			},
+			"subheading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consequat incididunt aliquip excepteur proident proident tempor veniam occaecat est. Proident exercitation sunt in tempor nisi tempor est. Proident eiusmod deserunt officia nulla elit labore qui et."
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consequat cillum magna id quis excepteur consequat sit deserunt esse amet ut officia. Qui nulla non velit."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"value": "breakfast",
+				"type": "Text"
+			},
+			"cans_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1587905069134-008460d7a636",
+					"width": 3935,
+					"height": 5894
+				},
+				"url": "https://images.unsplash.com/photo-1587905069134-008460d7a636",
+				"width": 3935,
+				"height": 5894,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"second_heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Oxygen"
+						}
+					}
+				]
+			},
+			"second_body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Cillum eu ad exercitation pariatur aliquip quis ut non ullamco et nisi occaecat."
+						}
+					}
+				]
+			},
+			"button_link": {
+				"key": "b1214d42-3433-47f6-b659-caae79509efd",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://slicemachine.dev",
+					"text": "few"
+				}
+			}
+		},
+		"items": []
+	}
+]
